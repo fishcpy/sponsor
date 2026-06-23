@@ -30,6 +30,9 @@ const sourceSerif4 = Source_Serif_4({
 export const metadata: Metadata = {
   title: "Sponsor",
   description: "支持我的创作",
+  icons: {
+    icon: "https://file.fis.ink/img/fishcpy/logo_c.png",
+  },
 };
 
 export default function RootLayout({
