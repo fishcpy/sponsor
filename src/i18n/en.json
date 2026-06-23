@@ -10,7 +10,7 @@
     "notice": "After sponsoring, please send an email to <a href=\"mailto:fishcpy@qq.com\" class=\"underline hover:text-foreground\">fishcpy@qq.com</a> or <a href=\"mailto:fishcpy@furry.sarl\" class=\"underline hover:text-foreground\">fishcpy@furry.sarl</a> with: payment channel, transaction ID, your name and message so I can verify and add you to the list."
   },
   "sponsors": {
-    "title": "Sponsors",
+    "title": "Sponsor List",
     "empty": "No sponsors yet",
     "sponsoredOn": "Sponsored on",
     "unit": "CNY",

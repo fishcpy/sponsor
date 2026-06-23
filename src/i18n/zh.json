@@ -10,7 +10,7 @@
     "notice": "赞助后请务必发送邮件至 <a href=\"mailto:fishcpy@qq.com\" class=\"underline hover:text-foreground\">fishcpy@qq.com</a> 或 <a href=\"mailto:fishcpy@furry.sarl\" class=\"underline hover:text-foreground\">fishcpy@furry.sarl</a>，注明：支付渠道、转账单号、您的名称和留言，以便我核对并添加到列表。"
   },
   "sponsors": {
-    "title": "赞助人名单",
+    "title": "赞助列表",
     "empty": "暂无赞助记录",
     "sponsoredOn": "赞助于",
     "unit": "元",
