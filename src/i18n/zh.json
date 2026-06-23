@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "赞助支持",
+    "subtitle": "如果我的内容对你有帮助，欢迎请我喝杯咖啡"
+  },
+  "payment": {
+    "wechat": "微信支付",
+    "alipay": "支付宝",
+    "scanToPay": "扫码赞助",
+    "notice": "赞助后请务必发送邮件至 <a href=\"mailto:fishcpy@qq.com\" class=\"underline hover:text-foreground\">fishcpy@qq.com</a> 或 <a href=\"mailto:fishcpy@furry.sarl\" class=\"underline hover:text-foreground\">fishcpy@furry.sarl</a>，注明：支付渠道、转账单号、您的名称和留言，以便我核对并添加到列表。"
+  },
+  "sponsors": {
+    "title": "赞助人名单",
+    "empty": "暂无赞助记录",
+    "sponsoredOn": "赞助于",
+    "unit": "元",
+    "header": {
+      "name": "名字",
+      "amount": "金额",
+      "date": "时间",
+      "note": "备注"
+    }
+  },
+  "theme": {
+    "light": "浅色",
+    "dark": "深色",
+    "system": "系统"
+  },
+  "language": {
+    "label": "语言"
+  },
+  "footer": {
+    "thanks": "感谢每一位支持者",
+    "contact": "联系我"
+  }
+}

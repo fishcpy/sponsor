@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "Sponsor",
+    "subtitle": "If my content helps you, consider buying me a coffee"
+  },
+  "payment": {
+    "wechat": "WeChat Pay",
+    "alipay": "Alipay",
+    "scanToPay": "Scan to sponsor",
+    "notice": "After sponsoring, please send an email to <a href=\"mailto:fishcpy@qq.com\" class=\"underline hover:text-foreground\">fishcpy@qq.com</a> or <a href=\"mailto:fishcpy@furry.sarl\" class=\"underline hover:text-foreground\">fishcpy@furry.sarl</a> with: payment channel, transaction ID, your name and message so I can verify and add you to the list."
+  },
+  "sponsors": {
+    "title": "Sponsors",
+    "empty": "No sponsors yet",
+    "sponsoredOn": "Sponsored on",
+    "unit": "CNY",
+    "header": {
+      "name": "Name",
+      "amount": "Amount",
+      "date": "Date",
+      "note": "Note"
+    }
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "footer": {
+    "thanks": "Thanks to every supporter",
+    "contact": "Contact me"
+  }
+}
